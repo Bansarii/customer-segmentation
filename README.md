@@ -43,7 +43,7 @@ This project applies **K-Means Clustering** to segment customers based on their 
   - **High Income, Low Spending (Frugal Customers)**
 
 ### **🖼️ Sample Visualization**
-![Customer Segmentation Plot](https://via.placeholder.com/600x400.png?text=Cluster+Visualization)
+![Customer Segmentation Plot]((https://github.com/Bansarii/customer-segmentation/blob/main/Mall_clu_kmeans.png))
 
 ## 📌 Key Insights
 ✔ **Luxury shoppers** can be targeted with premium offers  
