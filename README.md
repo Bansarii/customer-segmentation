@@ -52,7 +52,7 @@ This project applies **K-Means Clustering** to segment customers based on their 
 ✔ **Frugal customers** may need incentives to increase spending  
 
 ## 🔗 Repository Structure
-📂 Customer-Segmentation │── 📂 data/ # Dataset files (if included) │── 📂 images/ # Plots & visualizations │── customer_segmentation.ipynb # Jupyter Notebook │── README.md # Project Documentation
+📂 Customer-Segmentation │── 📂 images/ # Plots & visualizations │── customer_segmentation.ipynb # Jupyter Notebook │── README.md # Project Documentation
 
 ## 🎯 Next Steps
 🔹 Try **Hierarchical Clustering** for comparison  
